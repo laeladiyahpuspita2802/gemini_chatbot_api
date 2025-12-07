@@ -8,6 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "description": "",
   "dependencies": {
     "@google/genai": "^1.31.0",
